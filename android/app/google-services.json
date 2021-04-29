@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404615966007",
+    "project_id": "eden-caad3",
+    "storage_bucket": "eden-caad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404615966007:android:8ae5a0f28b7b10eda77eb2",
+        "android_client_info": {
+          "package_name": "com.example.eden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404615966007-jiv76ctdi8vpuuk6lqq2gv7ti6fu0t1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHlq2J0m2HUkHV4hbMmiLM-H9OCs2gBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404615966007-jiv76ctdi8vpuuk6lqq2gv7ti6fu0t1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
